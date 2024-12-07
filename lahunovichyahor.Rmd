@@ -3,8 +3,8 @@ title: "Noworodki pozostawione w szpitalu nie ze względów zdrowotnych"
 author: "Yahor Lahunovich"
 date: "2024-12-07"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}

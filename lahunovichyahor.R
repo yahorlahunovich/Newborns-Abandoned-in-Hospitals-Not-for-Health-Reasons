@@ -360,6 +360,7 @@ z2 <- ggplot(trend_analysis, aes(x = wojewodstwo, y = trend, fill = trend_catego
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/trend2.png", 
   plot = z2, 
+  background = "white",
   width = 15, 
   height = 8, 
   units = "in",
