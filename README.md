@@ -1,12 +1,6 @@
-```markdown
----
-title: "Noworodki pozostawione w szpitalu nie ze względów zdrowotnych"
-author: "Yahor Lahunovich"
-date: "2024-12-07"
-output:
-    pdf_document: default
-    html_document: default
----
+# Noworodki pozostawione w szpitalu nie ze względów zdrowotnych
+**author:** Yahor Lahunovich  
+**date:** 2024-12-07
 
 # Wstęp
 
@@ -51,4 +45,3 @@ Widać, że w większości województw sytuacja ulega poprawie, ale są regiony,
 # Podsumowanie
 
 Mam nadzieję, że przygotowane przeze mnie wizualizacje pomogą w zobrazowaniu istniejącego problemu. Interesujące byłoby również przeanalizowanie podobnych danych w innych krajach europejskich w celu porównania.
-```
