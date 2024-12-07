@@ -67,7 +67,6 @@ poland_plot <- ggplot(percentage_birth_hospitals_poland, aes(x = year, y = perce
 
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/poland_plot.png", 
-  bg = "transparent",
   plot = poland_plot, 
   width = 15, 
   height = 8, 
@@ -111,7 +110,6 @@ p1 <- ggplot(map_with_data1) +
   )
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/poland_map1.png", 
-  bg = "transparent",
   plot = p1, 
   width = 15, 
   height = 8, 
@@ -151,7 +149,6 @@ p2 <- ggplot(map_with_data2) +
 
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/poland_map2.png", 
-  bg = "transparent",
   plot = p2, 
   width = 15, 
   height = 8, 
@@ -191,7 +188,6 @@ p3 <- ggplot(map_with_data) +
 
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/poland_map3.png", 
-  bg = "transparent",
   plot = p3, 
   width = 15, 
   height = 8, 
@@ -270,7 +266,6 @@ combined_plot
 
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/poland_map4.png", 
-  bg = "transparent",
   plot = combined_plot, 
   width = 15, 
   height = 8, 
@@ -334,7 +329,6 @@ z1 <- ggplot(percentage_birth_hospitals, aes(x = year, y = percentage_left)) +
   )
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/trend1.png", 
-  bg = "transparent",
   plot = z1, 
   width = 15, 
   height = 8, 
@@ -365,7 +359,6 @@ z2 <- ggplot(trend_analysis, aes(x = wojewodstwo, y = trend, fill = trend_catego
   )
 ggsave(
   "~/Documents/uni/sem_3/twd/2024Z-DataVisualizationTechniques/homeworks/hw4/LahunovichYahor/images/trend2.png", 
-  bg = "transparent",
   plot = z2, 
   width = 15, 
   height = 8, 

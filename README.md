@@ -1,6 +1,6 @@
 # Noworodki pozostawione w szpitalu nie ze względów zdrowotnych
-**author:** Yahor Lahunovich  
-**date:** 2024-12-07
+**Author:** Yahor Lahunovich  
+**Date:** 2024-12-07
 
 # Wstęp
 
